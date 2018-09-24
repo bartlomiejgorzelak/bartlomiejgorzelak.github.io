@@ -508,27 +508,28 @@ background-color: #f9f9f9;
 /*time line end*/
 
 
+/*skill label*/
 
 .label {
     width: 110px;
  display: inline-block;
-
+margin: 2px;
     color: white;
     padding: 15px;
 font-size: 12px;
     font-family: Hind;
 }
-.C {background-color: #4CAF50;} /* Green */
+.C {background-color: #463F3A;} /* Brown */
 .Java {background-color: #2196F3;} /* Blue */
 .ERP {background-color: #ff9800;} /* Orange */
 .Android {background-color: #f44336;} /* Red */ 
 .SQL {background-color: #e7e7e7; color: black;} /* Gray */ 
-.Restful {background-color: #ff9800;} /* Orange */
-.SOAP {background-color: #4CAF50;} /* Green */
-.API {background-color: #2196F3;} /* Blue */
+.Restful {background-color: #001f54;} /* navy blue */
+.SOAP {background-color: #2b6cc4;} /* dark blue */
+.API {background-color: #ffd820;} /* yellow */
 .Photoshop {background-color: #4CAF50;} /* Green */
 
-
+/*skill label end*/
 /*
 -------------------
  * Section Wrapper
